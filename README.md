@@ -1,4 +1,13 @@
-### Hi there 👋
+## Welcome to my GitHub <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+### Abstract
+
+- :brazil: Sou brasileiro.
+- :student: Estudante de Ciência da computação, 5° semestre.
+- :cowboy_hat_face: Interesse: JavaScript, Html, Css, Java, React, ReactNative, Node.
+
+## Skills :trophy:
+
 
 <!--
 **felipemorgado/felipemorgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
