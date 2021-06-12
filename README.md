@@ -17,10 +17,10 @@
 
 ## Connect with me ❤️
 <p align="center">
-    <a href="" target="_blank">
+    <a href="https://www.linkedin.com/in/felipe-morgado-0874b2214/">
         <img align="center" alt="felipe-linkedin" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/morgado.felps/" target="_blank">
+    <a href="https://www.instagram.com/morgado.felps/">
         <img align="center" alt="felipe-instagram" height="60" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg">
     </a>
 </p>
