@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/felipemorgado">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=felipemorgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=felipemorgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/felipemorgado">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemorgado&layout=compact&langs_count=16&theme=radical"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemorgado&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </p>
 
