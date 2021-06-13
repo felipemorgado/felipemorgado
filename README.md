@@ -11,9 +11,9 @@
 
 ### Abstract
 
-- 📍 Sou brasileiro.
-- ‍🎓 Estudante de Ciência da computação, 5° semestre.
-- 👨‍💻 Interesse: JavaScript, Html, Css, Java, React, ReactNative, Node.
+- 📍 I'm brazillian.
+- ‍🎓 Computer Science student, fourth semester.
+- 👨‍💻 Interest: JavaScript, Html, Css, Java, React, ReactNative, Node.
 
 ## Connect with me ❤️
 <p align="center">
