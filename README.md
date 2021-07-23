@@ -26,6 +26,7 @@
 </p>
 
 ## Skills :trophy:
+<a href="https://www.linkedin.com/in/felipe-morgado-0874b2214/">
 <p align="center">
      <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,3 +45,4 @@
      <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+  </a>
