@@ -24,6 +24,7 @@
         <img align="center" alt="felipe-instagram" height="60" width="45" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg">
     </a>
 </p>
+
 ## Skills :trophy:
 
 <p align="center">
