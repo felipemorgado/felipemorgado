@@ -5,7 +5,7 @@
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=felipemorgado&show_icons=true&theme=radical&include_all_commits=true"/>
   </a>
   <a href="https://github.com/felipemorgado">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemorgado&layout=compact&langs_count=16&theme=radical&hide=html"/>
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemorgado&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </p>
 
