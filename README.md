@@ -13,7 +13,7 @@
 
 - 📍 I'm brazillian.
 - ‍🎓 Computer Science student, fourth semester.
-- 👨‍💻 Interest: JavaScript, Html, Css, Java, React, ReactNative, Node.
+- :trophy: Skills: JavaScript, Html, Css, Bootstrap
 
 ## Connect with me ❤️
 <p align="center">
@@ -23,32 +23,11 @@
 
 </p>
 
-## Skills :trophy:
+## My current projects :hammer_and_wrench:
 
 <p align="center">
      <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/tools+wrench+icon-1320087277641665992.png"> Loading...</a>
+     <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
