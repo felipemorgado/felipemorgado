@@ -12,7 +12,7 @@
 ### Abstract
 
 - 📍 I'm brazillian.
-- ‍🎓 Computer Science student, fourth semester.
+- ‍🎓 Computer Science student, sixth semester.
 - :trophy: Skills: JavaScript, Html, Css, Bootstrap
 
 ## Connect with me ❤️
