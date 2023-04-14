@@ -13,7 +13,7 @@
 
 - 📍 I'm brazillian.
 - ‍🎓 Computer Science student, sixth semester.
-- :trophy: Skills: JavaScript, Html, Css, Bootstrap, Python
+- :trophy: Skills: JavaScript, Html, Css, Bootstrap
 
 ## Connect with me ❤️
 <p align="center">
