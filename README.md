@@ -23,11 +23,11 @@
 
 </p>
 
-## My current projects :hammer_and_wrench:
+## My projects :hammer_and_wrench:
 
 <p align="center">
-     <a href="https://github.com/felipemorgado">
-     <img align="center" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/tools+wrench+icon-1320087277641665992.png"> Loading...</a>
+     <a href="https://github.com/felipemorgado/listadetarefas">
+     <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/1526/PNG/512/checklist_106575.png"> Lista de Tarefas</a>
      <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
