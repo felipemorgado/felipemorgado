@@ -25,9 +25,10 @@
 
 ## My projects :hammer_and_wrench:
 
+<!--- 
 <p align="center">
      <a href="https://github.com/felipemorgado/listadetarefas">
      <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/1526/PNG/512/checklist_106575.png"> Lista de Tarefas</a>
-     <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-</p>
-
+     <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> 
+--->
