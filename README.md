@@ -22,8 +22,9 @@
     </a>
 
 </p>
-
+<!--- 
 ## My projects :hammer_and_wrench:
+--->
 
 <!--- 
 <p align="center">
